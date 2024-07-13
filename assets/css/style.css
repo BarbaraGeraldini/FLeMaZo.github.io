@@ -4,6 +4,7 @@
 	margin: 0;
 	box-sizing: border-box;
 }
+
 html {
 	font-size: 10px;
 	font-family: 'Montserrat', sans-serif;
@@ -97,7 +98,7 @@ p {
 #header .nav-list ul {
 	list-style: none;
 	position: absolute;
-	background-color: rgb(31, 30, 30);
+	background-color: rgb(118, 118, 227);
 	width: 100vw;
 	height: 100vh;
 	left: 100%;
@@ -560,7 +561,7 @@ p {
 }
 @keyframes text_reveal_name {
 	100% {
-		color: crimson;
+		color: rgb(63, 220, 20);
 		font-weight: 500;
 	}
 }
